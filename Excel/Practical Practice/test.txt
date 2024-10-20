@@ -1,0 +1,36 @@
+1. Create a formula to check if an employee's performance rating is above 8. If true, return "High Performer", otherwise return "Needs Improvement.
+2. Calculate the total salary for all employees in the dataset.
+3. Calculate the average age of the employees.
+4. Calculate how long each employee has been with the company as of today.
+5. Extract the first name of the employee from the "Name" column.
+6. Create a Pivot Table that shows the average salary by department.
+7. Create a bar chart that displays the employee names and their corresponding performance ratings.
+8. Load the dataset into Power Query. Remove the "Bonus (%)" column and load the data back to Excel.
+9. If some names are missing in the dataset, use Power Query to fill down missing employee names.
+10. Group the data by Department and calculate the total salary for each department.
+11. Unpivot the "Performance Rating" and "Bonus (%)" columns to show them in a long format.
+
+
+
+excel
+1. Write a formula to check if the "Total Revenue" is greater than 10,000. If true, return "High Revenue", otherwise return "Low Revenue
+2. Calculate the Total Revenue if the Quantity Sold is 40 units and the Unit Price is $448.79.
+3.Count the number of employees in the IT department 
+4. Identify employees whose date of joining falls in January
+5.  mark employees as "Experienced" if their age is above 35 and they have more than 7 years of experience. 
+6. Apply data validation to restrict salary entries to a range between 3000 and 9000.
+
+
+7. Write a formula to calculate a 10% discount on the Unit Price for each product and display the new price.
+8. Extract the year from the sales date.
+9. Calculate the number of days between the sale on 2023-12-04 and today's date.
+10. Extract the first 5 characters of the Product Name.
+11.  Concatenate the Product Name and Category into one cell with a space in between.
+12. Create a pivot table to summarize the total revenue by Region
+
+13.Create a combo chart with salary (column) and performance rating (line) for each department.
+
+14. Remove employees with a performance rating below 5.
+15. Split the name column into first and last names directly in Power Query.
+16. Add a new column in Power Query that assigns a salary band (e.g., "Low", "Medium", "High") based on salary ranges.
+17. Create a custom column that calculates the next appraisal date, which is exactly one year from the date of joining.
